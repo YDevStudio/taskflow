@@ -43,7 +43,7 @@
             class="hidden lg:inline-flex items-center px-6 py-2.5 bg-indigo-600 hover:bg-indigo-700 
                    text-white font-medium rounded-lg transition-all duration-300 hover:shadow-lg"
           >
-            Get Started
+            Login
           </router-link>
 
           <button @click="toggleMobileMenu" class="lg:hidden p-2 text-gray-600 hover:text-indigo-600">
