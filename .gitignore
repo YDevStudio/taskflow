@@ -1,0 +1,40 @@
+# Ignore Python-related files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+.env
+*.sqlite3
+*.db
+
+# Ignore FastAPI-specific files
+instance/
+*.log
+*.pid
+*.seed
+*.bak
+migrations/
+
+# Ignore frontend dependencies
+node_modules/
+dist/
+.vite/
+.vitepress/
+.npm/
+.cache/
+*.lock
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore editor-specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Ignore Git-related files
+*.orig
