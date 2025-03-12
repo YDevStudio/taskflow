@@ -65,13 +65,13 @@ npm run dev
 ## 🌟 Screenshots  
 
 ### 🔹 **Home Page**  
-![Home Page](https://github.com/YDevStudio/taskflow/assets/your_image_hash_here)  
+![Home Page](https://github.com/user-attachments/assets/5a08107c-c147-479a-9cc3-eb4970dbb0ed)  
 
 ### 🔹 **Task Management View**  
-![Task Management](https://github.com/YDevStudio/taskflow/assets/your_image_hash_here)  
+![Task Management](https://github.com/user-attachments/assets/c7d1da91-105e-458b-af8f-a7b811b4c0d1)  
 
-### 🔹 **Task Editing & Sorting**  
-![Task Editing](https://github.com/YDevStudio/taskflow/assets/your_image_hash_here)  
+### 🔹 **Calendar**  
+![Task Editing](https://github.com/user-attachments/assets/cbf462d4-fc2c-4add-b70d-9e44afa3ff10)  
 
 ---
 
